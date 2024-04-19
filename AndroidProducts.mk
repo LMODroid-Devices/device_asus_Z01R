@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_Z01R.mk
+    $(LOCAL_DIR)/lmodroid_Z01R.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_Z01R-user \
-    lineage_Z01R-userdebug \
-    lineage_Z01R-eng
+    lmodroid_Z01R-user \
+    lmodroid_Z01R-userdebug \
+    lmodroid_Z01R-eng
